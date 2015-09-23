@@ -1,0 +1,27 @@
+body {
+  font-family: "Helvetica";
+  margin: 0 auto;
+  width: 960px;
+  background: #ccc;
+}
+
+article {
+  background: #fff;
+  border-top: 5px solid #424242;
+  padding: 2em;
+  word-spacing:0.5em;
+}
+
+h1 {
+  margin: 0 0 1em 0;
+  font-size: 2em;
+  font: Verdana, Geneva, sans-serif;
+  color:red;
+  word-spacing:1em;
+}
+
+h2 {
+  color: red;
+  font-weight: normal;
+  font:Arial, Helvetica, sans-serif;
+}
