@@ -29,3 +29,9 @@ h2 {
   font:Arial, Helvetica, sans-serif;
 }
 
+.test{
+		background: #fff;
+		border-top: 5px solid #424242;
+		padding: 4em;
+		word-spacing:5em;
+}
