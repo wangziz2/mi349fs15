@@ -1,0 +1,43 @@
+.firstperson{
+  color:#00FFFF;
+  line-height:30px;
+  height:900px;
+  float:left;
+  padding:5px;
+  background:grey;
+}
+
+.secondperson{
+  color:yellow;
+  line-height:30px;
+  height:900px;
+  padding:5px;
+  background:grey;
+  float:left;
+}
+
+.thirdperson{
+  color:orange;
+  line-height:30px;
+  height:900px;
+  padding:5px;
+  background:grey;
+  float:right;
+}
+
+body{
+	background:grey;
+	font-family:Arial;
+}
+
+a:hover{
+	color:blue;
+}
+
+a:before{
+	color:black;
+}
+
+a:after{
+	color:purple;
+}
