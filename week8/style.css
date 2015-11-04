@@ -1,0 +1,27 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+	font-weight:100;
+	font-family:"Helyetica", sans-serif;
+}
+
+.colume{
+	float:left;
+	font-weight:100;
+	width:33%;
+	font-size:14px;
+	color:#7d7d7d;
+}
+
+@media (min-width:0px) and (max-width:799px){
+	.colume{
+		width:100%;
+	}
+}
+
+@media (min-width:800px) and (max-width:1199px){
+	.colume{
+		width:50%;
+	}
+}
