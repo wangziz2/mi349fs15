@@ -8,3 +8,9 @@ included in this final folder because some of homeworks you said
 We should put in final folder has already graded in d2l. So
 when you check my works if you can not find something please
 go to the early folder in my github, thank you!
+
+The d2l shows that we must have At least 2 mobile/responsive 
+breakpoints. However, my homepage and most of my pages are 
+not suitable for mobile/responsive breakpoints. So I only add
+mobile responsive in my "animemusic.html" page, it contains 2
+mobile/responsive breakpoints.
