@@ -1,0 +1,19 @@
+body{
+	background-image:url(utawarerumono.jpg);
+}
+.title{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:bisque;
+}
+.character{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:bisque;
+}
+#star{
+	color:bisque;
+	font-size:25px;
+}

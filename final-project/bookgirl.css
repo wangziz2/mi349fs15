@@ -1,0 +1,19 @@
+body{
+	background-image:url(bookgirl.jpg);
+}
+.title{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:darkviolet;
+}
+.character{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:darkviolet;
+}
+#star{
+	color:darkviolet;
+	font-size:25px;
+}

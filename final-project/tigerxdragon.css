@@ -1,0 +1,19 @@
+body{
+	background-image:url(tigerxdragon.jpg);
+}
+.title{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:peachpuff;
+}
+.character{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:peachpuff;
+}
+#star{
+	color:peachpuff;
+	font-size:25px;
+}

@@ -1,0 +1,23 @@
+body{
+	background-image:url(monogatari.jpg);
+}
+.title{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:red;
+}
+.character{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:red;
+}
+#star{
+	color:red;
+	font-size:25px;
+}
+
+.interval{
+	height:600px;
+}

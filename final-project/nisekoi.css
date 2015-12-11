@@ -1,0 +1,19 @@
+body{
+	background-image:url(nisekoi.jpg);
+}
+.title{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:violet ;
+}
+.character{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:violet ;
+}
+#star{
+	color:violet ;
+	font-size:25px;
+}

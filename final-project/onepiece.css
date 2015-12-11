@@ -1,0 +1,19 @@
+body{
+	background-image:url(onepiece.jpg);
+}
+.title{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:black;
+}
+.character{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:black;
+}
+#star{
+	color:black;
+	font-size:25px;
+}

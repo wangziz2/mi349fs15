@@ -1,0 +1,19 @@
+body{
+	background-image:url(naruto.jpg);
+}
+.title{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:darkturquoise;
+}
+.character{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:darkturquoise;
+}
+#star{
+	color:darkturquoise;
+	font-size:25px;
+}

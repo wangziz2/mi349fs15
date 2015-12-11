@@ -1,0 +1,21 @@
+body{
+	background-image:url(onepunchman.png);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+}
+.title{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:aquamarine;
+}
+.character{
+  font-size:25px;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  color:aquamarine;
+}
+#star{
+	color:aquamarine;
+	font-size:25px;
+}

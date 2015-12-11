@@ -1,0 +1,29 @@
+.colume{
+	float:left;
+	width:33%;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size:35px; 
+    font-weight:bold;
+	color:mediumorchid;
+}
+body{
+	background:peachpuff;
+}
+h1{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size:35px; 
+    font-weight:bold;
+	color:mediumorchid;
+}
+
+@media (min-width:0px) and (max-width:799px){
+	.colume{
+		width:100%;
+	}
+}
+
+@media (min-width:800px) and (max-width:1199px){
+	.colume{
+		width:50%;
+	}
+}
